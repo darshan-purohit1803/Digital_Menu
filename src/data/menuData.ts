@@ -39,7 +39,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 15,
     servingInfo: 'Serves 2 • 6 Pcs',
-    imageUrl: 'https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1788843304145-bec146aa83c5?auto=format&fit=crop&w=800&q=80',
     badge: 'Chef Signature',
   },
   {
@@ -67,7 +67,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 10,
     servingInfo: 'Serves 2 • Crunchy',
-    imageUrl: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1735357801861-e4ef296ff0aa?auto=format&fit=crop&w=800&q=80',
     badge: 'Kids Favorite',
   },
   {
@@ -82,7 +82,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 12,
     servingInfo: 'Serves 2 • 8 Pcs',
-    imageUrl: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1670300522639-ce378e5d23a1?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'starter-5',
@@ -95,7 +95,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 12,
     servingInfo: 'Serves 2 • 5 Pcs',
-    imageUrl: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1734774924912-dcbb467f8599?auto=format&fit=crop&w=800&q=80',
   },
 
   // 2. Soup
@@ -110,7 +110,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: 'Bowl 250ml',
-    imageUrl: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1629978444632-9f63ba0eff47?auto=format&fit=crop&w=800&q=80',
     badge: 'Bestseller',
   },
   {
@@ -125,7 +125,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 10,
     servingInfo: 'Bowl 250ml',
-    imageUrl: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'soup-3',
@@ -139,7 +139,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: 'Bowl 250ml • Jain',
-    imageUrl: 'https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1662469853918-c615ffb1e030?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'soup-4',
@@ -152,7 +152,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: 'Bowl 250ml • Light',
-    imageUrl: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1611068120813-eca5a8cbf793?auto=format&fit=crop&w=800&q=80',
   },
 
   // 3. Beverages
@@ -168,7 +168,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: '300ml Glass',
-    imageUrl: 'https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1630409346699-79481a79db52?auto=format&fit=crop&w=800&q=80',
     badge: 'All-Time Favorite',
   },
   {
@@ -183,7 +183,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 5,
     servingInfo: '350ml Kulhad Glass',
-    imageUrl: 'https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'bev-3',
@@ -197,7 +197,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: '350ml Tall Glass',
-    imageUrl: 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1575596510825-f748919a2bf7?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'bev-4',
@@ -210,7 +210,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 5,
     servingInfo: '350ml Tall Glass',
-    imageUrl: 'https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'bev-5',
@@ -224,7 +224,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 5,
     servingInfo: '350ml Glass',
-    imageUrl: 'https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?auto=format&fit=crop&w=800&q=80',
   },
 
   // 4. Veg Sabji
@@ -239,7 +239,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 15,
     servingInfo: 'Serves 2 • Medium Spicy',
-    imageUrl: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1720949579179-b4d04403f548?auto=format&fit=crop&w=800&q=80',
     badge: 'Popular',
   },
   {
@@ -253,7 +253,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 14,
     servingInfo: 'Serves 2 • Homestyle',
-    imageUrl: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1682496177510-1cf1a963f38d?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'vegsabji-3',
@@ -266,7 +266,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 14,
     servingInfo: 'Serves 2',
-    imageUrl: 'https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1788621138183-dda1ef14b032?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'vegsabji-4',
@@ -280,7 +280,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 15,
     servingInfo: 'Serves 2 • Extra Spicy',
-    imageUrl: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=800&q=80',
   },
 
   // 5. Punjabi Sabji
@@ -323,7 +323,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 10,
     servingInfo: 'Serves 2 • Creamy',
-    imageUrl: 'https://images.unsplash.com/photo-1546833998-877b37c2e5c6?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1708782340380-536df8cf6784?auto=format&fit=crop&w=800&q=80',
     badge: 'Bestseller',
   },
   {
@@ -338,7 +338,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 12,
     servingInfo: 'Serves 2 • Tangy & Spicy',
-    imageUrl: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1788602564560-9bcbf0f9acb6?auto=format&fit=crop&w=800&q=80',
   },
 
   // 6. Gujarati Sabji
@@ -353,7 +353,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 15,
     servingInfo: 'Serves 2 • Traditional',
-    imageUrl: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80',
     badge: 'Gujarat Special',
   },
   {
@@ -367,7 +367,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 10,
     servingInfo: 'Serves 2 • Sweet & Tangy',
-    imageUrl: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1788620644598-58fe1354bf2a?auto=format&fit=crop&w=800&q=80',
     badge: 'Customer Choice',
   },
   {
@@ -382,7 +382,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: 'Bowl 350ml',
-    imageUrl: 'https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1605909388460-74ec8b204127?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'gujarati-4',
@@ -396,7 +396,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 15,
     servingInfo: 'Serves 2 • Smoky Flavor',
-    imageUrl: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1777613112774-1a64a2c2d337?auto=format&fit=crop&w=800&q=80',
   },
 
   // 7. Jain Sabji
@@ -412,7 +412,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 14,
     servingInfo: 'Serves 2 • 100% Jain Pure',
-    imageUrl: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1567529854338-fc097b962123?auto=format&fit=crop&w=800&q=80',
     badge: '100% Jain',
   },
   {
@@ -427,7 +427,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 14,
     servingInfo: 'Serves 2 • 100% Jain Pure',
-    imageUrl: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1696950168461-4e6d40aa5a06?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'jain-3',
@@ -441,7 +441,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 10,
     servingInfo: 'Serves 2 • Pure Desi Ghee',
-    imageUrl: 'https://images.unsplash.com/photo-1546833998-877b37c2e5c6?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1788603092417-a01e665e0ab2?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'jain-4',
@@ -455,7 +455,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 12,
     servingInfo: 'Serves 2 • 100% Jain Pure',
-    imageUrl: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1642821369314-100fece91d3c?auto=format&fit=crop&w=800&q=80',
   },
 
   // 8. Chinese
@@ -485,7 +485,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 14,
     servingInfo: 'Serves 2 • Spicy Soya Gravy',
-    imageUrl: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1690403160225-3db8cc8babd5?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'chinese-3',
@@ -512,7 +512,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 12,
     servingInfo: 'Serves 2 • Fiery Red',
-    imageUrl: 'https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80',
   },
 
   // 9. Rice & Pulao
@@ -527,7 +527,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 18,
     servingInfo: 'Serves 2 • Handi + Raita',
-    imageUrl: 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=80',
     badge: 'Chef Signature',
   },
   {
@@ -542,7 +542,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: 'Serves 2',
-    imageUrl: 'https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'rice-3',
@@ -556,7 +556,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 14,
     servingInfo: 'Serves 2 • Rich & Aromatic',
-    imageUrl: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1691171047462-66025ecd5efc?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'rice-4',
@@ -570,7 +570,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 12,
     servingInfo: 'Serves 1-2 • Complete Meal',
-    imageUrl: 'https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1788603092417-a01e665e0ab2?auto=format&fit=crop&w=800&q=80',
   },
 
   // 10. Roti & Naan
@@ -585,7 +585,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: '1 Big Naan (Cut in 3)',
-    imageUrl: 'https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1640625314547-aee9a7696589?auto=format&fit=crop&w=800&q=80',
     badge: 'Must Try',
   },
   {
@@ -599,7 +599,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 10,
     servingInfo: '1 Big Naan • Cheesy',
-    imageUrl: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1697155406014-04dc649b0953?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'roti-3',
@@ -613,7 +613,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 5,
     servingInfo: '1 Roti • 100% Atta',
-    imageUrl: 'https://images.unsplash.com/photo-1506280754576-f6fa8a873550?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1640625314547-aee9a7696589?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'roti-4',
@@ -627,7 +627,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: '1 Paratha • Multi-Layered',
-    imageUrl: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1683533761804-5fc12be0f684?auto=format&fit=crop&w=800&q=80',
   },
 
   // 11. Desserts
@@ -643,7 +643,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 5,
     servingInfo: '2 Pcs with Rabdi',
-    imageUrl: 'https://images.unsplash.com/photo-1589119908995-c6837fa14848?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1758910536889-43ce7b3199fd?auto=format&fit=crop&w=800&q=80',
     badge: 'Royal Mithai',
   },
   {
@@ -657,7 +657,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 8,
     servingInfo: 'Hot Sizzler Plate',
-    imageUrl: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1562790879-dfde82829db0?auto=format&fit=crop&w=800&q=80',
     badge: 'Favorite',
   },
   {
@@ -672,7 +672,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 5,
     servingInfo: 'Warm Bowl 150g',
-    imageUrl: 'https://images.unsplash.com/photo-1599785209707-a456fc1337bb?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1610432589024-5f02f76549cf?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'dessert-4',
@@ -686,7 +686,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: '2 Pcs • Chilled',
-    imageUrl: 'https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1714799263412-2e0c1f875959?auto=format&fit=crop&w=800&q=80',
   },
 
   // 12. Ice Cream
@@ -702,7 +702,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: '2 Large Scoops',
-    imageUrl: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=800&q=80',
     badge: 'Premium Scoop',
   },
   {
@@ -717,7 +717,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: '2 Scoops',
-    imageUrl: 'https://images.unsplash.com/photo-1501443762994-82bd5dace89a?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'icecream-3',
@@ -731,7 +731,7 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: '2 Large Scoops',
-    imageUrl: 'https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1562790879-dfde82829db0?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 'icecream-4',
@@ -745,6 +745,6 @@ export const MENU_ITEMS: MenuItem[] = [
     isAvailable: true,
     prepTimeMinutes: 3,
     servingInfo: 'Thick Round Slice',
-    imageUrl: 'https://images.unsplash.com/photo-1576506295286-5cda18df43e7?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1683135801080-d276e9028a6a?auto=format&fit=crop&w=800&q=80',
   },
 ]
